@@ -1,7 +1,7 @@
 <h1 align="center">Hey🙂, It's me Optaxer</h1>
 <h3 align="center">UI designer with a passion for creating visually appealing and unique designs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=Profile%20views&color=0e75b6&style=flat" alt="optaxer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff7b&style=plastic" alt="optaxer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optaxer" alt="optaxer" /></a> </p>
 
