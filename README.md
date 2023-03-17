@@ -39,8 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
 
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=Ajay84sia&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
