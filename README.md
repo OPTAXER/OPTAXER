@@ -36,12 +36,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&theme=dark&title_color=ffffff&text_color=00ffcc&bg_color=060606&hide_border=true&locale=en" alt="optaxer" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
- <h2 align="left">🔹My Activity:</h2>
+ <h2 align="left">🔹Activity:</h2>
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Optaxer&theme=react-dark&hide_border=true" /></a>  
 
 
 
-:)
+END
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
