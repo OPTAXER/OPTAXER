@@ -38,3 +38,15 @@
   <img align="center" src="https://github.com/Ajay84sia/Optaxer/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
+
+  <div align="center">    
+<img src="https://github-profile-trophy.vercel.app/?username=Ajay84sia&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
+
+<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+
+### ✍️ Random Dev Quote
+  <div align="center">  
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
+    </div>  
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
