@@ -41,7 +41,7 @@
 
 
 
-END
+ <h2 align="left">🔸END:</h2>
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
