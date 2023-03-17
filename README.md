@@ -1,7 +1,7 @@
 <h1 align="center">Hey🙂, It's me Optaxer</h1>
 <h3 align="center">UI designer with a passion for creating visually appealing and unique designs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff7b&style=plastic" alt="optaxer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff40&style=plastic" alt="optaxer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optaxer" alt="optaxer" /></a> </p>
 
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=optaxer&show_icons=true&theme=dark&title_color=0bfec1&text_color=0beefe&bg_color=070707&hide_border=true&locale=en&layout=compact" alt="optaxer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&theme=dark&title_color=ffffff&text_color=0bfec1&bg_color=060606&hide_border=true&locale=en" alt="optaxer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&theme=dark&title_color=ffffff&text_color=00ff9d&bg_color=060606&hide_border=true&locale=en" alt="optaxer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
