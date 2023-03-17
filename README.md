@@ -3,7 +3,7 @@
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, It's me <a>Optaxer</a>!
 </h1> 
 <h3 align="center">Am a UI designer with a passion for creating visually appealing and unique designs</h3>
-<img src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img src = "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
 
