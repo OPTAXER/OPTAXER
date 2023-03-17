@@ -1,6 +1,6 @@
 <h1 align="center">Hey🙂, It's me Optaxer</h1>
-<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(6).png"/>
 <h3 align="center">UI designer with a passion for creating visually appealing and unique designs</h3>
+<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(6).png"/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff40&style=plastic" alt="optaxer" /> </p>
