@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(6).png"/>
 <h1 align="center">Hey🙂, It's me Optaxer</h1>
 <h3 align="center">UI designer with a passion for creating visually appealing and unique designs</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
