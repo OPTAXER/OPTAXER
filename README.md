@@ -8,7 +8,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff40&style=plastic" alt="optaxer" /> 
- <img src="https://img.shields.io/github/followers/Ajay84sia?label=OPR%20X%20Followers&color=00ff40&style=plastic" alt="followers-count"> </p>
+ <img src="https://img.shields.io/github/followers/Optaxer?label=OPR%20X%20Followers&color=ff0000&style=plastic" alt="followers-count"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optaxer" alt="optaxer" /></a> </p>
 
