@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=optaxer&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="optaxer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&text_color=ff0000&locale=en" alt="optaxer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&text_color=00ff62&locale=en" alt="optaxer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
