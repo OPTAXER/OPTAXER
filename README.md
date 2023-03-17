@@ -36,10 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&theme=dark&title_color=ffffff&text_color=00ffcc&bg_color=060606&hide_border=true&locale=en" alt="optaxer" /></p>
  <h2 align="left">🔹My Activity:</h2>
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Optaxer&theme=react-dark&hide_border=true" /></a>  
-  <img align="center" src="https://github.com/Ajay84sia/Optaxer/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
 
 
+<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 :)
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
