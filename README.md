@@ -1,10 +1,11 @@
 
 <h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me <a>Optaxer</a>!
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, It's me <a>Optaxer</a>!
 </h1> 
-<h3 align="center">UI designer with a passion for creating visually appealing and unique designs</h3>
+<h3 align="center">Am a UI designer with a passion for creating visually appealing and unique designs</h3>
 <img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(6).png"/>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff40&style=plastic" alt="optaxer" /> </p>
 
