@@ -7,6 +7,7 @@
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src = "https://media2.giphy.com/media/XFvmpLuiprh9IebNs2/giphy.gif"/>
 <p align="center">
+ <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
