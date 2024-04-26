@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optaxer" alt="optaxer" /></a> </p>
 
- <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <p align="center"><img src="https://i.pinimg.com/originals/49/23/29/492329d446c422b0483677d0318ab4fa.gif" height="50" width="100%">
 
 - 💖Wanna z my Fivem works [Join OPR X Discord server](https://discord.gg/9PP8H9XGgd)
 
@@ -34,7 +34,7 @@
 
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
- <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <p align="center"><img src="https://i.pinimg.com/originals/49/23/29/492329d446c422b0483677d0318ab4fa.gif" height="50" width="100%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/9PP8H9XGgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9PP8H9XGgd" height="30" width="40" /></a>
@@ -46,6 +46,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=optaxer&show_icons=true&theme=dark&title_color=00ffcc&text_color=0beefe&bg_color=070707&hide_border=true&locale=en&layout=compact" alt="optaxer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&theme=dark&title_color=ffffff&text_color=00ffcc&bg_color=060606&hide_border=true&locale=en" alt="optaxer" /></p>
+ <p align="center"><img src="https://i.pinimg.com/originals/49/23/29/492329d446c422b0483677d0318ab4fa.gif" height="50" width="100%">
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
 
