@@ -3,9 +3,9 @@
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, It's me <a>Optaxer</a>!
 </h1> 
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="center">Am A UI Designer With A Passion For Creating Visually Appealing And Unique Designs</h3>
+<h3 align="center">Am A UI Designer With A Passion For Creating Visually Appealing And Unique Designs!</h3>
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src = "https://media2.giphy.com/media/XFvmpLuiprh9IebNs2/giphy.gif"/>
+<img src = "https://cdn.pixabay.com/animation/2023/03/21/10/41/10-41-09-561_512.gif"/>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
