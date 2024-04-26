@@ -17,6 +17,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optaxer" alt="optaxer" /></a> </p>
 
+ <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 - 💖Wanna z my Fivem works [Join OPR X Discord server](https://discord.gg/9PP8H9XGgd)
 
 - 🎧 I’m currently learning **Lua**
@@ -33,7 +35,7 @@
 
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-
+ <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/9PP8H9XGgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9PP8H9XGgd" height="30" width="40" /></a>
