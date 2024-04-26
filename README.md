@@ -16,6 +16,7 @@
  <img src="https://img.shields.io/github/followers/Optaxer?label=OPR%20X%20Followers&color=00aaff&style=plastic" alt="followers-count"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optaxer" alt="optaxer" /></a> </p>
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - 💖Wanna z my Fivem works [Join OPR X Discord server](https://discord.gg/9PP8H9XGgd)
 
