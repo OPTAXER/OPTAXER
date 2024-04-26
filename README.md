@@ -11,7 +11,7 @@
  <p align="center"><img src="https://clipart-library.com/img/1323628.gif" height="60" width="100%">
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
- <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <p align="center"><img src="https://clipart-library.com/img/1323628.gif" height="60" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff40&style=plastic" alt="optaxer" /> 
  <img src="https://img.shields.io/github/followers/Optaxer?label=OPR%20X%20Followers&color=00aaff&style=plastic" alt="followers-count"> </p>
 
