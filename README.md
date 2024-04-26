@@ -8,7 +8,7 @@
 <img src = "https://media.tenor.com/F0uEWXLHEHwAAAAj/eyes-noto-color-emoji.gif"/>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
- <p align="center"><img src="https://clipart-library.com/images/rcnrABrLi.gif" height="20" width="100%">
+ <p align="center"><img src="https://clipart-library.com/images/rcnrABrLi.gif" height="60" width="100%">
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
