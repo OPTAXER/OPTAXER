@@ -63,4 +63,4 @@
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <img src="https://media4.giphy.com/media/hV1nmmwhgwgGwQDDy0/giphy.gif" height="20" width="100%">
