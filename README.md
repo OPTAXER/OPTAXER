@@ -2,6 +2,7 @@
 <h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, It's me <a>Optaxer</a>!
 </h1> 
+ <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">Am a UI designer with a passion for creating visually appealing and unique designs</h3>
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src = "https://media2.giphy.com/media/XFvmpLuiprh9IebNs2/giphy.gif"/>
