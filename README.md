@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=optaxer" alt="optaxer" /></a> </p>
 
- <p align="center"><img src="https://i.pinimg.com/originals/49/23/29/492329d446c422b0483677d0318ab4fa.gif" height="50" width="100%">
+ <p align="center"><img src="https://media4.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif?cid=6c09b952s9sisgx3tg5g1z2rsfv1z52yx86opr7p81mknysg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height="50" width="100%">
 
 - 💖Wanna z my Fivem works [Join OPR X Discord server](https://discord.gg/9PP8H9XGgd)
 
