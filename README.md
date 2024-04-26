@@ -7,7 +7,6 @@
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src = "https://media2.giphy.com/media/XFvmpLuiprh9IebNs2/giphy.gif"/>
 <p align="center">
- <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
@@ -48,11 +47,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=optaxer&show_icons=true&theme=dark&title_color=00ffcc&text_color=0beefe&bg_color=070707&hide_border=true&locale=en&layout=compact" alt="optaxer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&theme=dark&title_color=ffffff&text_color=00ffcc&bg_color=060606&hide_border=true&locale=en" alt="optaxer" /></p>
+ <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
 
 
-
- <h2 align="left">🔸END:</h2>
+ <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <h2 align="left">💀END:</h2>
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
