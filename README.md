@@ -5,7 +5,7 @@
  <p align="center"><img src="https://i.pinimg.com/originals/49/23/29/492329d446c422b0483677d0318ab4fa.gif" height="50" width="100%">
 <h3 align="center">Am A UI Designer With A Passion For Creating Visually Appealing And Unique Designs!</h3>
  <p align="center"><img src="https://i.pinimg.com/originals/49/23/29/492329d446c422b0483677d0318ab4fa.gif" height="50" width="100%">
-<img src = "https://media.tenor.com/F0uEWXLHEHwAAAAj/eyes-noto-color-emoji.gif"/>
+<img src = "https://i.gifer.com/XOsX.gif"/>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
