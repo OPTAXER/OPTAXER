@@ -3,9 +3,13 @@
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, It's me <a>Optaxer</a>!
 </h1> 
 <h3 align="center">Am a UI designer with a passion for creating visually appealing and unique designs</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src = "https://media2.giphy.com/media/XFvmpLuiprh9IebNs2/giphy.gif"/>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
-
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff40&style=plastic" alt="optaxer" /> 
  <img src="https://img.shields.io/github/followers/Optaxer?label=OPR%20X%20Followers&color=00aaff&style=plastic" alt="followers-count"> </p>
 
@@ -46,3 +50,7 @@
     </div>  
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
