@@ -4,7 +4,6 @@
 </h1> 
 <h3 align="center">Am a UI designer with a passion for creating visually appealing and unique designs</h3>
 <img src = "https://media2.giphy.com/media/XFvmpLuiprh9IebNs2/giphy.gif"/>
-<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optaxer&label=:)OPR%20X%20Views&color=00ff40&style=plastic" alt="optaxer" /> 
@@ -20,9 +19,11 @@
 
 - 🔧Developer in **DM Developments,Marvel Customs**
 
+- 🔧FIVEM SERVER LAUNCHER DEV: https://drponline.in/
+
 - 📫 How to reach me **I.OPR#7988**
 
-- ⚡ Fun fact **Am a pro!😄**
+- ⚡ Fun fact **Am a pro! Am a Noob!😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optaxer&show_icons=true&theme=dark&title_color=ffffff&text_color=00ffcc&bg_color=060606&hide_border=true&locale=en" alt="optaxer" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optaxer&theme=dark" alt="optaxer" /></p>
- <h2 align="left">🔹Activity:</h2>
-  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Optaxer&theme=react-dark&hide_border=true" /></a>  
 
 
 
